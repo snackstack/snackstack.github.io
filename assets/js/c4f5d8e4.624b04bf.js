@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[193],{9294:(e,t,n)=>{n.r(t),n.d(t,{default:()=>r});var s=n(7294),c=(n(9960),n(2263)),i=n(5257);function r(){const{siteConfig:e}=(0,c.Z)();return s.createElement(i.Z,{description:""},s.createElement("main",{style:{display:"flex",justifyContent:"center"}},"WIP"))}}}]);
